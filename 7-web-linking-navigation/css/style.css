@@ -1,16 +1,17 @@
 a.active {
-    color: white;
-    background-color: black;
-  }
-  a {
-    color: black
-  }
-  a:visited {
-    color: gray;
-  }
-  a:active {
-    background-color: yellow;
-  }
-  a:hover {
-    color:red;
-  }
+  color: white;
+  background-color: black;
+}
+
+a {
+  color: black
+}
+a:visited {
+  color: gray;
+}
+a:active {
+  background-color: yellow;
+}
+a:hover {
+  color:red;
+}
